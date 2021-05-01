@@ -4,6 +4,6 @@ An api for authentification user
 SignIn with email and password
 SignUp with email and password
 # url
-<br>http://tunnelfireapi.infinityfreeapp.com/signIn.php?username=<<username>>&email=<<email>>&password=<<password>>&gender=<<gender>></br>
+http://tunnelfireapi.infinityfreeapp.com/signIn.php?username=<<username>>&email=<<email>>&password=<<password>>&gender=<<gender>>
 
 
