@@ -8,6 +8,7 @@ The signIn function</br></br>
 http://tunnelfireapi.infinityfreeapp.com/signIn.php?username=$username&email=$email&password=$password&gender=$gender
 </br>
 Url parameter</br>
+</br>
 username:The username of the current user</br>
 email:The email of the current user</br>
 password:The password of the current user</br>
