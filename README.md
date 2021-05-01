@@ -9,7 +9,6 @@ http://tunnelfireapi.infinityfreeapp.com/signIn.php?username=$username&email=$em
 </br>
 The signUp function</br></br>
 http://tunnelfireapi.infinityfreeapp.com/signUp.php?username=$username&email=$email&password=$password&gender=$gender
-</br>
 Url parameter
 </br>
 username:The username of the current user</br>
